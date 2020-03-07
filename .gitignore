@@ -1,0 +1,11 @@
+/target/
+/cookies
+/logs
+/.idea
+*.iml
+/test-output/
+/testdb
+*.classpath
+*.log*
+*.prefs
+*.exe
